@@ -3,7 +3,7 @@
 <img align='right' src="https://s8.gifyu.com/images/21004063-removebg-preview.png" width="220" />
 <!--<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210"> -->
 
-- 🎓 I'm currently pursuing **BTech.(Computer Science)** from **The ICFAI University Jaipur**.
+- 🎓 I'm currently pursuing **BTech.(Computer Science)** from **ICFAI University, Jaipur**.
 - 🌱 I have proficient skills & academic background in Statistics and Machine Learning.
 - 💻 I'm looking for an **internship** in **Machine Learning** and **Computer Vision** domain.
 - 📈 I love playing with data and write notebooks on [Kaggle](https://www.kaggle.com/yogeshsangtani).
