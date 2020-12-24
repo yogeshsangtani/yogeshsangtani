@@ -1,6 +1,7 @@
 <p align="left">
 <h1 align="left">Hey there, I'm Yogesh! </h1>
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+<img align='right' src="https://s8.gifyu.com/images/21004063-removebg-preview.png" width="220" />
+<!--<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210"> -->
 
 - 🎓 I'm currently pursuing **BTech.(Computer Science)** from **The ICFAI University Jaipur**.
 - 🌱 I have strong technical skills and an academic background in Statistics and Machine Learning.
@@ -22,4 +23,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshsangtani&show_icons=true&locale=en&layout=compact" alt="yogeshsangtani" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yogeshsangtani&show_icons=true&locale=en" alt="yogeshsangtani" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogeshsangtani&show_icons=true&locale=en" alt="yogeshsangtani" /></p>
