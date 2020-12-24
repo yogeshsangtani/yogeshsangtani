@@ -3,12 +3,12 @@
 <img align='right' src="https://s8.gifyu.com/images/21004063-removebg-preview.png" width="220" />
 <!--<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210"> -->
 
-- 🎓 I'm currently pursuing **BTech.(Computer Science)** from **ICFAI University, Jaipur**.
+- 🎓 I'm **Computer Science** undergrad at **ICFAI University, Jaipur**.
 - 🌱 I have proficient skills & academic background in Statistics and Machine Learning.
 - 💻 I'm looking for an **internship** in **Machine Learning** and **Computer Vision** domain.
 - 📈 I love playing with data and write notebooks on [Kaggle](https://www.kaggle.com/yogeshsangtani).
 - 🎓 I'm open for project collaborations in **Data Science**.
-- 🎯 Goal (2021): **Contribute** openly to **Data Science and Machine Learning community**.
+- 🎯 Goal (2021): **Open Source** contribution in **Data Science and Machine Learning projects**.
 - 📌 Scroll down to see my **Pinned Repositories**. </p>
 
 <h3 align="left">Languages and Tools:</h3>
