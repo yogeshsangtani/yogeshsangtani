@@ -5,7 +5,6 @@
 
 - 🎓 I'm **Computer Science** undergrad at **ICFAI University, Jaipur**.
 - 🌱 I have proficient skills & academic background in Statistics, Machine Learning & Computer Vision.
-<!--- 💻 I'm looking for an **internship** in **Machine Learning** and **Computer Vision** domain. -->
 - 🎓 I'm open for project collaborations in **Data Science**.
 - 🎯 Goal (2021): **Open Source** contribution in **Data Science and Machine Learning projects**.
 - 📌 Scroll down to see my **Pinned Repositories**. </p>
