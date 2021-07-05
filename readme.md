@@ -3,7 +3,7 @@
 <img align='right' src="https://s8.gifyu.com/images/21004063-removebg-preview.png" width="220" />
 
 - 🎓 I'm **Computer Science** undergrad at **ICFAI University, Jaipur**.
-- 🌱 I have proficient skills & academic background in Statistics, Machine Learning & Computer Vision.
+- 🌱 I have proficient skills & academic background in Data Structures & Algorithms, Statistics, Machine Learning & Computer Vision.
 - 📌 Scroll down to see my **Pinned Repositories**. </p>
 
 <h3 align="left">Languages and Tools:</h3>
