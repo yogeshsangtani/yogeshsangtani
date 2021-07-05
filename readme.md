@@ -1,12 +1,9 @@
 <p align="left">
 <h1 align="left">Hey there, I'm Yogesh! </h1>
 <img align='right' src="https://s8.gifyu.com/images/21004063-removebg-preview.png" width="220" />
-<!--<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210"> -->
 
 - 🎓 I'm **Computer Science** undergrad at **ICFAI University, Jaipur**.
 - 🌱 I have proficient skills & academic background in Statistics, Machine Learning & Computer Vision.
-- 🎓 I'm open for project collaborations in **Data Science**.
-- 🎯 Goal (2021): **Open Source** contribution in **Data Science and Machine Learning projects**.
 - 📌 Scroll down to see my **Pinned Repositories**. </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,8 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yogeshsangtani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yogeshsangtani" height="30" width="40" /></a>
 <a href="https://twitter.com/yogeshsangtani5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yogeshsangtani5" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khushboo goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshsangtani&show_icons=true&locale=en&layout=compact" alt="yogeshsangtani" /></p>
